@@ -53,6 +53,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Tutorial\CheckBox_IsThreeState.xaml.cs">
+      <DependentUpon>CheckBox_IsThreeState.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Tutorial\Resource_Dynamic.xaml.cs">
       <DependentUpon>Resource_Dynamic.xaml</DependentUpon>
     </Compile>
@@ -68,6 +71,10 @@
     <Compile Include="Tutorial\TextBox_Selections.xaml.cs">
       <DependentUpon>TextBox_Selections.xaml</DependentUpon>
     </Compile>
+    <Page Include="Tutorial\CheckBox_IsThreeState.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Tutorial\Resource_Dynamic.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

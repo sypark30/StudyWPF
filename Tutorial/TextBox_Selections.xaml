@@ -1,0 +1,9 @@
+﻿<Window x:Class="StudyWPF.Tutorial.TextBox_Selections"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TextBoxSelectionSample" Height="150" Width="300">
+    <DockPanel Margin="10">
+        <TextBox Text="Hello, selection world" SelectionChanged="TextBox_SelectionChanged" DockPanel.Dock="Top"/>
+        <TextBox Name="txtStatus" Text="(select upper word)" AcceptsReturn="True" TextWrapping="Wrap" IsReadOnly="True" VerticalScrollBarVisibility="Auto"/>
+    </DockPanel>
+</Window>

@@ -34,7 +34,5 @@ namespace StudyWPF.Tutorial
             strStatus += string.Format("Selected text: '{0}'\n", textBox.SelectedText);
             txtStatus.Text = strStatus;
         }
-
-        //test
     }
 }

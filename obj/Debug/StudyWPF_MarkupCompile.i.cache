@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Code\sypark\StudyWPF\StudyWPF\StudyWPF\obj\Debug\
+C:\Code\sypark\StudyWPF\StudyWPF\obj\Debug\
 StudyWPF
 none
 false
 DEBUG;TRACE
-C:\Code\sypark\StudyWPF\StudyWPF\StudyWPF\App.xaml
-7-388064927
+C:\Code\sypark\StudyWPF\StudyWPF\App.xaml
+11-1209243710
 
-15-1007383151
+191295451145
 12-1401562060
-Tutorial\CheckBox_IsThreeState.xaml;Tutorial\Resource_Dynamic.xaml;Study\StudyListView.xaml;MainWindow.xaml;Study\StudyGrid.xaml;Tutorial\Resource_Static.xaml;Tutorial\TextBox_Selections.xaml;
+Tutorial\CheckBox_IsThreeState.xaml;Tutorial\Converter.xaml;Tutorial\DataContext.xaml;Tutorial\Grid_Splitter.xaml;Tutorial\ChangeNotifycation.xaml;Tutorial\Resource_Dynamic.xaml;Study\StudyListView.xaml;MainWindow.xaml;Study\StudyGrid.xaml;Tutorial\Resource_Static.xaml;Tutorial\TextBox_Selections.xaml;
 
 False
 

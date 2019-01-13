@@ -56,6 +56,18 @@
     <Compile Include="Tutorial\CheckBox_IsThreeState.xaml.cs">
       <DependentUpon>CheckBox_IsThreeState.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Tutorial\Converter.xaml.cs">
+      <DependentUpon>Converter.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tutorial\DataContext.xaml.cs">
+      <DependentUpon>DataContext.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tutorial\Grid_Splitter.xaml.cs">
+      <DependentUpon>Grid_Splitter.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tutorial\ChangeNotifycation.xaml.cs">
+      <DependentUpon>ChangeNotifycation.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Tutorial\Resource_Dynamic.xaml.cs">
       <DependentUpon>Resource_Dynamic.xaml</DependentUpon>
     </Compile>
@@ -72,6 +84,22 @@
       <DependentUpon>TextBox_Selections.xaml</DependentUpon>
     </Compile>
     <Page Include="Tutorial\CheckBox_IsThreeState.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Tutorial\Converter.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Tutorial\DataContext.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Tutorial\Grid_Splitter.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Tutorial\ChangeNotifycation.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

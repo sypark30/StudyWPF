@@ -46,3 +46,15 @@ C:\Code\sypark\StudyWPF\StudyWPF\StudyWPF\obj\Debug\StudyWPF.Properties.Resource
 C:\Code\sypark\StudyWPF\StudyWPF\StudyWPF\obj\Debug\StudyWPF.csproj.GenerateResource.Cache
 C:\Code\sypark\StudyWPF\StudyWPF\StudyWPF\obj\Debug\Tutorial\CheckBox_IsThreeState.baml
 C:\Code\sypark\StudyWPF\StudyWPF\StudyWPF\obj\Debug\Tutorial\CheckBox_IsThreeState.g.cs
+C:\Code\sypark\StudyWPF\StudyWPF\obj\Debug\Tutorial\CheckBox_IsThreeState.baml
+C:\Code\sypark\StudyWPF\StudyWPF\obj\Debug\Tutorial\Grid_Splitter.baml
+C:\Code\sypark\StudyWPF\StudyWPF\obj\Debug\Tutorial\CheckBox_IsThreeState.g.cs
+C:\Code\sypark\StudyWPF\StudyWPF\obj\Debug\Tutorial\Grid_Splitter.g.cs
+C:\Code\sypark\StudyWPF\StudyWPF\obj\Debug\Tutorial\DataContext.baml
+C:\Code\sypark\StudyWPF\StudyWPF\obj\Debug\Tutorial\DataContext.g.cs
+C:\Code\sypark\StudyWPF\StudyWPF\obj\Debug\Tutorial\ChangeNotifycation.baml
+C:\Code\sypark\StudyWPF\StudyWPF\obj\Debug\Tutorial\Converter.g.cs
+C:\Code\sypark\StudyWPF\StudyWPF\obj\Debug\Tutorial\ChangeNotifycation.g.cs
+C:\Code\sypark\StudyWPF\StudyWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Code\sypark\StudyWPF\StudyWPF\obj\Debug\StudyWPF_MarkupCompile.lref
+C:\Code\sypark\StudyWPF\StudyWPF\obj\Debug\Tutorial\Converter.baml
